@@ -3,6 +3,7 @@
 An AI-powered Streamlit app that generates short two-character dialogue reels — complete with TTS audio, speaker diarization, character expression overlays, AI image inserts, and auto-captions.
 
 ---
+> *"You need a bit of Byron as much as Babbage."*
 
 ## ✨ Features
 
